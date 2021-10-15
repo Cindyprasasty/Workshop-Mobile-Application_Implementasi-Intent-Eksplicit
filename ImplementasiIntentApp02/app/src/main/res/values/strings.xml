@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Implementasi Intent App 02</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+</resources>
